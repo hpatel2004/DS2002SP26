@@ -21,7 +21,7 @@ Describe your pipeline:
 ## Analysis approach
 What analyses did you run and why?
 
-## Results (for decisions)
+## Results (for decisions, cases..depends on the assignment if you do this)
 What should a decision-maker do differently because of your findings?
 
 ## What could be wrong?
